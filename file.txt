@@ -1,0 +1,11 @@
+//Overview:
+
+The system allows users to register, login, and manage their profile.
+Users can browse, search, filter, and add books to their shopping cart and wish list.
+Users can place orders, view order history, track orders, and manage gift cards.
+Admin users can add new books to the store and manage inventory.
+Objective:
+The main objective of this system is to provide a platform for users to conveniently browse, search, and purchase books online.
+It aims to offer features similar to popular online bookstores, such as browsing books by title, filtering by price range, adding books to cart and wish list, and managing user profiles.
+Additionally, it provides functionality for admin users to manage the store's inventory by adding new books and updating stock levels.
+Overall, the system aims to enhance the user experience of buying books online.
